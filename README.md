@@ -52,3 +52,7 @@ Some of the approaches are:
 - __Experience Level Analysis__, relating it to Employment Type, Job Title, and Company Size;
 - __Company Location Analysis__, relating it to Experience Level;
 - __Salary Analysis__, relating it to Work Year, Experience Level, Company Size, Job Title, and Remote Ratio.
+
+## Source
+
+Link to full analysis article: https://natan4tech.com/2022/10/04/eda-data-science-job-market/
