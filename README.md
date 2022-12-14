@@ -36,7 +36,7 @@ Namely:
 - __7 Dimensions Columns:__ Work Year, Job Title, Experience Level, Employment Type, Employee Residence, Company Location, Company Size.
 - __2 Measures Columns:__ Salary USD, Remote Ratio
 
-## Methods
+## Method
 
 To perform a thorough analysis of every aspect of the dataset I decided to divide it into two parts: Univariate Analysis and Multivariate Analysis. 
 
