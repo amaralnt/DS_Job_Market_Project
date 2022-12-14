@@ -57,4 +57,4 @@ Some of the approaches are:
 
 ## Source
 
-Link to full analysis article: https://natan4tech.com/2022/10/04/eda-data-science-job-market/
+Link to the full article: https://natan4tech.com/2022/10/04/eda-data-science-job-market/
